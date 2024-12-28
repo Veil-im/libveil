@@ -5,6 +5,7 @@ async function main() {
     const v = await VeilIdGenerator.generate()
     console.log(v)
     console.log(await deriveKey("123", v))
+    console.log(await deriveKey("123", "123"))
     
 }
 

@@ -1,15 +1,14 @@
 # libveil
 
-To install dependencies:
+The core functionality of the veil platform.
 
-```bash
-bun install
-```
 
-To run:
+# Features
 
-```bash
-bun run index.ts
-```
+- Wrappers around the web crypto API
+- Easy to use API for creating and managing digital assets
 
-This project was created using `bun init` in bun v1.1.22. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+
+# Status
+
+Under active development.

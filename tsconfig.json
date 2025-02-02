@@ -28,7 +28,7 @@
     "paths": {
       "@/*": ["./*"],
       "@vhash/*": ["./utils/hash/*"],
-      "@vcore/*": ["./core/*"],
+      "@vcore/*": ["./core/*"]
     }
   }
 }
